@@ -16,17 +16,18 @@ ios:
 3. yarn run ios
 
 What architecture in this project?
-Atomic design (https://atomicdesign.bradfrost.com/)
+- Atomic design (https://atomicdesign.bradfrost.com/)
 
 What dependendencies in the project?
-1.tanstack/react-query
-For Caching requests, hooks are very helpful
 
-2.ky
-Simple api, for retries failed requests
+1. tanstack/react-query
+- For Caching requests, hooks are very helpful
 
-3.zod
-For convenient schema typing
+2. ky
+- Simple api, for retries failed requests
 
-4.lodash
-Use debounce for improving performance flat list
+3. zod
+- For convenient schema typing
+
+4. lodash
+- Use debounce for improving performance flat list
