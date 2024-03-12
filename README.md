@@ -5,15 +5,15 @@ Demos:
 How to run locally?
 
 Android:
-
-1. open folder android in android studio and click green button 'run-app'
-2. yarn run android for running metro
+1. yarn install
+2. open folder android in android studio and click green button 'run-app'
+3. yarn run android for running metro
 
 ios:
-
-1. open in xcode file Valetax.xcworkspace click button build
-2. cd ios pod install
-3. yarn run ios
+1. yarn install
+2. open in xcode file Valetax.xcworkspace click button build
+3. cd ios pod install
+4. yarn run ios
 
 What architecture in this project?
 - Atomic design (https://atomicdesign.bradfrost.com/)
