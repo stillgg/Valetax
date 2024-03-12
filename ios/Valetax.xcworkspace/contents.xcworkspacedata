@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Valetax.xcodeproj">
+      location = "container:Valetax.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Valetax.xcodeproj">
    </FileRef>
 </Workspace>
